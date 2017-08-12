@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS `posts` (
 --
 
 INSERT INTO `posts` (`id`, `title`, `content`, `postdate`, `author`) VALUES
-(28, 'Welcome to your blog!', 'Welcome to your personal ''LightBlog'' blog. You can add, edit and delete posts by looking at the bottom of the pages. (In order to edit or remove a post you must be inside it first.)\r\nFor posts you can use BBCode just like in most common forums. \r\nLightBlog automatically resizes your images even if they are over 4K in resolution. LightBlog also is dynamic and will resize according to what device it''s being used on.', '28/09/2014', 'vladka24');
+(28, 'Welcome to your blog!', 'Welcome to your personal ''Simple Blog'' blog. You can add, edit and delete posts by looking at the bottom of the pages. (In order to edit or remove a post you must be inside it first.)\r\nFor posts you can use BBCode just like in most common forums. \r\nLightBlog automatically resizes your images even if they are over 4K in resolution. SimpleBlog also is dynamic and will resize according to what device it''s being used on.', '28/09/2014', 'vladka24');
 
 --
 -- Indexes for dumped tables
